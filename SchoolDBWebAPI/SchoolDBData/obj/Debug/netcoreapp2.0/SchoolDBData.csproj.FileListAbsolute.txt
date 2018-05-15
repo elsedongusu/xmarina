@@ -1,0 +1,17 @@
+/Volumes/[C] Windows 10.hidden/Users/fatihmac/XamarinTutorials/1WebAPI/WebAPI/SchoolDBWebAPI/SchoolDBData/bin/Debug/netcoreapp2.0/SchoolDBData.deps.json
+/Volumes/[C] Windows 10.hidden/Users/fatihmac/XamarinTutorials/1WebAPI/WebAPI/SchoolDBWebAPI/SchoolDBData/bin/Debug/netcoreapp2.0/SchoolDBData.dll
+/Volumes/[C] Windows 10.hidden/Users/fatihmac/XamarinTutorials/1WebAPI/WebAPI/SchoolDBWebAPI/SchoolDBData/bin/Debug/netcoreapp2.0/SchoolDBData.pdb
+/Volumes/[C] Windows 10.hidden/Users/fatihmac/XamarinTutorials/1WebAPI/WebAPI/SchoolDBWebAPI/SchoolDBData/obj/Debug/netcoreapp2.0/SchoolDBData.csproj.CoreCompileInputs.cache
+/Volumes/[C] Windows 10.hidden/Users/fatihmac/XamarinTutorials/1WebAPI/WebAPI/SchoolDBWebAPI/SchoolDBData/obj/Debug/netcoreapp2.0/SchoolDBData.AssemblyInfoInputs.cache
+/Volumes/[C] Windows 10.hidden/Users/fatihmac/XamarinTutorials/1WebAPI/WebAPI/SchoolDBWebAPI/SchoolDBData/obj/Debug/netcoreapp2.0/SchoolDBData.AssemblyInfo.cs
+/Volumes/[C] Windows 10.hidden/Users/fatihmac/XamarinTutorials/1WebAPI/WebAPI/SchoolDBWebAPI/SchoolDBData/obj/Debug/netcoreapp2.0/SchoolDBData.dll
+/Volumes/[C] Windows 10.hidden/Users/fatihmac/XamarinTutorials/1WebAPI/WebAPI/SchoolDBWebAPI/SchoolDBData/obj/Debug/netcoreapp2.0/SchoolDBData.pdb
+C:\Users\fatihmac\XamarinTutorials\1WebAPI\WebAPI\SchoolDBWebAPI\SchoolDBData\bin\Debug\netcoreapp2.0\SchoolDBData.deps.json
+C:\Users\fatihmac\XamarinTutorials\1WebAPI\WebAPI\SchoolDBWebAPI\SchoolDBData\bin\Debug\netcoreapp2.0\SchoolDBData.dll
+C:\Users\fatihmac\XamarinTutorials\1WebAPI\WebAPI\SchoolDBWebAPI\SchoolDBData\bin\Debug\netcoreapp2.0\SchoolDBData.pdb
+C:\Users\fatihmac\XamarinTutorials\1WebAPI\WebAPI\SchoolDBWebAPI\SchoolDBData\obj\Debug\netcoreapp2.0\SchoolDBData.csprojAssemblyReference.cache
+C:\Users\fatihmac\XamarinTutorials\1WebAPI\WebAPI\SchoolDBWebAPI\SchoolDBData\obj\Debug\netcoreapp2.0\SchoolDBData.csproj.CoreCompileInputs.cache
+C:\Users\fatihmac\XamarinTutorials\1WebAPI\WebAPI\SchoolDBWebAPI\SchoolDBData\obj\Debug\netcoreapp2.0\SchoolDBData.AssemblyInfoInputs.cache
+C:\Users\fatihmac\XamarinTutorials\1WebAPI\WebAPI\SchoolDBWebAPI\SchoolDBData\obj\Debug\netcoreapp2.0\SchoolDBData.AssemblyInfo.cs
+C:\Users\fatihmac\XamarinTutorials\1WebAPI\WebAPI\SchoolDBWebAPI\SchoolDBData\obj\Debug\netcoreapp2.0\SchoolDBData.dll
+C:\Users\fatihmac\XamarinTutorials\1WebAPI\WebAPI\SchoolDBWebAPI\SchoolDBData\obj\Debug\netcoreapp2.0\SchoolDBData.pdb

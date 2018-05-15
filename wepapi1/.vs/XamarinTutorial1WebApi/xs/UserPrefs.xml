@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{BD46E1C8-ECB5-4A02-8794-02CCEDFEC0FF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinTutorial1WebApi/StudentList.xaml.cs">
+    <Files>
+      <File FileName="XamarinTutorial1WebApi/StudentList.xaml.cs" Line="11" Column="22" />
+      <File FileName="XamarinTutorial1WebApi/StudentList.xaml" Line="27" Column="1" />
+      <File FileName="XamarinTutorial1WebApi/Models/WebAPIService.cs" Line="60" Column="61" />
+      <File FileName="XamarinTutorial1WebApi/AddStudent.xaml.cs" Line="58" Column="68" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamarinTutorial1WebApi.Android PreferredExecutionTarget="Android.7_0_nougat_api24" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MultiItemStartupConfigurations />
+</Properties>

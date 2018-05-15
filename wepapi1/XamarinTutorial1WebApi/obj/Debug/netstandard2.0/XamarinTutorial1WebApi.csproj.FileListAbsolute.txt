@@ -1,0 +1,11 @@
+/Users/fatihmac/Projects/XamarinTutorial1WebApi/XamarinTutorial1WebApi/bin/Debug/netstandard2.0/XamarinTutorial1WebApi.deps.json
+/Users/fatihmac/Projects/XamarinTutorial1WebApi/XamarinTutorial1WebApi/bin/Debug/netstandard2.0/XamarinTutorial1WebApi.dll
+/Users/fatihmac/Projects/XamarinTutorial1WebApi/XamarinTutorial1WebApi/bin/Debug/netstandard2.0/XamarinTutorial1WebApi.pdb
+/Users/fatihmac/Projects/XamarinTutorial1WebApi/XamarinTutorial1WebApi/obj/Debug/netstandard2.0/XamarinTutorial1WebApi.csprojResolveAssemblyReference.cache
+/Users/fatihmac/Projects/XamarinTutorial1WebApi/XamarinTutorial1WebApi/obj/Debug/netstandard2.0/XamarinTutorial1WebApi.csproj.CoreCompileInputs.cache
+/Users/fatihmac/Projects/XamarinTutorial1WebApi/XamarinTutorial1WebApi/obj/Debug/netstandard2.0/XamarinTutorial1WebApi.AssemblyInfoInputs.cache
+/Users/fatihmac/Projects/XamarinTutorial1WebApi/XamarinTutorial1WebApi/obj/Debug/netstandard2.0/XamarinTutorial1WebApi.AssemblyInfo.cs
+/Users/fatihmac/Projects/XamarinTutorial1WebApi/XamarinTutorial1WebApi/obj/Debug/netstandard2.0/XamarinTutorial1WebApi.dll
+/Users/fatihmac/Projects/XamarinTutorial1WebApi/XamarinTutorial1WebApi/obj/Debug/netstandard2.0/XamarinTutorial1WebApi.pdb
+/Users/fatihmac/Projects/XamarinTutorial1WebApi/XamarinTutorial1WebApi/bin/Debug/netstandard2.0/Mono.Android.dll
+/Users/fatihmac/Projects/XamarinTutorial1WebApi/XamarinTutorial1WebApi/bin/Debug/netstandard2.0/Mono.Android.pdb

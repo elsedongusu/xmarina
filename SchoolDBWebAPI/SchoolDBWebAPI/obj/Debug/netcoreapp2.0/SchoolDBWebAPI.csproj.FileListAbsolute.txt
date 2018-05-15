@@ -1,0 +1,22 @@
+/Volumes/[C] Windows 10.hidden/Users/fatihmac/XamarinTutorials/1WebAPI/WebAPI/SchoolDBWebAPI/SchoolDBWebAPI/bin/Debug/netcoreapp2.0/SchoolDBData.dll
+/Volumes/[C] Windows 10.hidden/Users/fatihmac/XamarinTutorials/1WebAPI/WebAPI/SchoolDBWebAPI/SchoolDBWebAPI/bin/Debug/netcoreapp2.0/SchoolDBData.pdb
+/Volumes/[C] Windows 10.hidden/Users/fatihmac/XamarinTutorials/1WebAPI/WebAPI/SchoolDBWebAPI/SchoolDBWebAPI/obj/Debug/netcoreapp2.0/SchoolDBWebAPI.csprojResolveAssemblyReference.cache
+/Volumes/[C] Windows 10.hidden/Users/fatihmac/XamarinTutorials/1WebAPI/WebAPI/SchoolDBWebAPI/SchoolDBWebAPI/obj/Debug/netcoreapp2.0/SchoolDBWebAPI.csproj.CoreCompileInputs.cache
+/Volumes/[C] Windows 10.hidden/Users/fatihmac/XamarinTutorials/1WebAPI/WebAPI/SchoolDBWebAPI/SchoolDBWebAPI/obj/Debug/netcoreapp2.0/SchoolDBWebAPI.AssemblyInfoInputs.cache
+/Volumes/[C] Windows 10.hidden/Users/fatihmac/XamarinTutorials/1WebAPI/WebAPI/SchoolDBWebAPI/SchoolDBWebAPI/obj/Debug/netcoreapp2.0/SchoolDBWebAPI.AssemblyInfo.cs
+/Volumes/[C] Windows 10.hidden/Users/fatihmac/XamarinTutorials/1WebAPI/WebAPI/SchoolDBWebAPI/SchoolDBWebAPI/obj/Debug/netcoreapp2.0/SchoolDBWebAPI.dll
+/Volumes/[C] Windows 10.hidden/Users/fatihmac/XamarinTutorials/1WebAPI/WebAPI/SchoolDBWebAPI/SchoolDBWebAPI/obj/Debug/netcoreapp2.0/SchoolDBWebAPI.pdb
+C:\Users\fatihmac\XamarinTutorials\1WebAPI\WebAPI\SchoolDBWebAPI\SchoolDBWebAPI\obj\Debug\netcoreapp2.0\SchoolDBWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\fatihmac\XamarinTutorials\1WebAPI\WebAPI\SchoolDBWebAPI\SchoolDBWebAPI\obj\Debug\netcoreapp2.0\SchoolDBWebAPI.AssemblyInfoInputs.cache
+C:\Users\fatihmac\XamarinTutorials\1WebAPI\WebAPI\SchoolDBWebAPI\SchoolDBWebAPI\obj\Debug\netcoreapp2.0\SchoolDBWebAPI.AssemblyInfo.cs
+C:\Users\fatihmac\XamarinTutorials\1WebAPI\WebAPI\SchoolDBWebAPI\SchoolDBWebAPI\obj\Debug\netcoreapp2.0\SchoolDBWebAPI.dll
+C:\Users\fatihmac\XamarinTutorials\1WebAPI\WebAPI\SchoolDBWebAPI\SchoolDBWebAPI\obj\Debug\netcoreapp2.0\SchoolDBWebAPI.pdb
+C:\Users\fatihmac\XamarinTutorials\1WebAPI\WebAPI\SchoolDBWebAPI\SchoolDBWebAPI\bin\Debug\netcoreapp2.0\SchoolDBWebAPI.deps.json
+C:\Users\fatihmac\XamarinTutorials\1WebAPI\WebAPI\SchoolDBWebAPI\SchoolDBWebAPI\bin\Debug\netcoreapp2.0\SchoolDBWebAPI.runtimeconfig.json
+C:\Users\fatihmac\XamarinTutorials\1WebAPI\WebAPI\SchoolDBWebAPI\SchoolDBWebAPI\bin\Debug\netcoreapp2.0\SchoolDBWebAPI.runtimeconfig.dev.json
+C:\Users\fatihmac\XamarinTutorials\1WebAPI\WebAPI\SchoolDBWebAPI\SchoolDBWebAPI\bin\Debug\netcoreapp2.0\SchoolDBWebAPI.dll
+C:\Users\fatihmac\XamarinTutorials\1WebAPI\WebAPI\SchoolDBWebAPI\SchoolDBWebAPI\bin\Debug\netcoreapp2.0\SchoolDBWebAPI.pdb
+C:\Users\fatihmac\XamarinTutorials\1WebAPI\WebAPI\SchoolDBWebAPI\SchoolDBWebAPI\bin\Debug\netcoreapp2.0\SchoolDBData.dll
+C:\Users\fatihmac\XamarinTutorials\1WebAPI\WebAPI\SchoolDBWebAPI\SchoolDBWebAPI\bin\Debug\netcoreapp2.0\SchoolDBData.pdb
+C:\Users\fatihmac\XamarinTutorials\1WebAPI\WebAPI\SchoolDBWebAPI\SchoolDBWebAPI\obj\Debug\netcoreapp2.0\SchoolDBWebAPI.csproj.CopyComplete
+C:\Users\fatihmac\XamarinTutorials\1WebAPI\WebAPI\SchoolDBWebAPI\SchoolDBWebAPI\obj\Debug\netcoreapp2.0\SchoolDBWebAPI.csprojAssemblyReference.cache
